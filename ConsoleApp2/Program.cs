@@ -6,8 +6,10 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Class1.Woof();
-            Class1.Woof();
+
+            Console.WriteLine("Hello World!");
+            Class1.Meow();
+
             Console.ReadLine();
         }
     }
