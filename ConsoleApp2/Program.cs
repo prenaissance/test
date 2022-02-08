@@ -9,8 +9,10 @@ namespace ConsoleApp2
 
             Console.WriteLine("Hello World!");
             Class1.Meow();
-
+            int i = 2345;
+            i--;
             Console.ReadLine();
+            
         }
     }
 }
