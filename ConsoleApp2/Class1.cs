@@ -12,5 +12,9 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Woof woof");
         }
+        public static void Meow()
+        {
+            Console.WriteLine("Meow!");
+        }
     }
 }
